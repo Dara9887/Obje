@@ -44,9 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Card.cs" />
-    <Compile Include="..\..\..\..\..\..\Downloads\Pack.cs">
-      <Link>Pack.cs</Link>
-    </Compile>
+    <Compile Include="Pack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
